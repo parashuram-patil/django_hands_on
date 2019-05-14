@@ -9,3 +9,4 @@ twine==1.12.1
 
 Django~=2.2.1
 psycopg2~=2.8.2
+mysqlclient~=1.4.2.post1
