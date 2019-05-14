@@ -80,10 +80,10 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djnago_db',
         # 'USER': 'postgres',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'USER': 'parashuram',
+        'PASSWORD': 'Pass@123',
         # 'HOST': '127.0.0.1',
-        'HOST': 'localhost',
+        'HOST': 'parashuram.mysql.pythonanywhere-services.com',
         # 'PORT': '5433',
         'PORT': '3306',
     }
